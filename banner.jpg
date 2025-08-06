@@ -1,0 +1,16 @@
+<AQUI ESTA O BANNER DO SITE>      
+ 
+<img src="https://n.uguu.se/xnqSmlRL.jpg" alt="DGBOTs" style="width:100%; height:auto;">
+
+
+                               <AQUI ESTÁ O FUNDO DA IMAGEM>
+
+<style>
+    body {
+        background-image: url('https://h.uguu.se/eSRvFjzD.jpg');
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
+        font-family: Arial, sans-serif;
+    }
+</style>  
